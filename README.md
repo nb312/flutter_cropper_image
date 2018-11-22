@@ -8,11 +8,11 @@ A Flutter app to showcase image cropping.
 
 
 # Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/Android1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android2.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android3.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android4.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android5.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android6.jpg">
+<img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android1.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android2.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android3.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android4.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android5.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/android6.jpg">
 
 
 # iOS Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iPhone1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone2.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone3.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone4.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone5.jpg">
+<img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone1.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone2.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone3.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone4.jpg"> <img height="400px" src="https://github.com/flutter-devs/flutter_image_cropper_demo/blob/master/screens/iphone5.jpg">
 
 
 

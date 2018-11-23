@@ -1,0 +1,4 @@
+#Fri Nov 23 13:56:42 CST 2018
+base.0=/home/nb/GitWorkshop/flutter_image_cropper_demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

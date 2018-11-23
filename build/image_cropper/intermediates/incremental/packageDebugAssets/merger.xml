@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/nb/.pub-cache/hosted/pub.dartlang.org/image_cropper-0.0.8/android/src/main/assets"/><source path="/home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_cropper/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/nb/.pub-cache/hosted/pub.dartlang.org/image_cropper-0.0.8/android/src/debug/assets"/></dataSet></merger>

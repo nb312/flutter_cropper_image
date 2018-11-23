@@ -11,7 +11,7 @@ main() {
 
   runApp(new MaterialApp(
 //    title: 'Image Cropper App',
-    debugShowCheckedModeBanner: false,
+    debugShowCheckedModeBanner: true,
 //    theme: new ThemeData(
 //      accentColor: Colors.blue,
 //      primaryColor: Colors.blue,

@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:image_cropper] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_cropper/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1e4020e8fe9ecb7913b9fa71ac463838/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.2] /home/nb/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2.aar/d23c141b6c49b6d008bdb4e722cd06ef/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ea47b395632c7c6bc398836850ba4fa8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/808308c7e7818d3ab06f61e9ebf4be8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f81040da200618d9c838b1dc188c061e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c52c9b3be661ce684a6753fa09f00a6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dc0169feec4a42cabff6a12d31f05691/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd8b7260e3c462e542422a585e2d2b6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7b013c235edb8d801ce4cf6fc8487de2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9e58aaaeccacdef2bb548222138a61d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef7066052bf039b11378aff99ca23f9b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d04c60a9e33617cc8b949cbd2e025fa7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dc66bec591356f0d2ec6219215915552/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8279fda7e1719bb1698476e4f78c7c98/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:2:5-51
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:15:5-44:19
+MERGED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+	android:label
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:icon
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.aeologic.flutterimagecropperdemo.MainActivity
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:39:9-42:71
+	android:screenOrientation
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:41:13-49
+	android:theme
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:42:13-69
+	android:name
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:40:13-60
+uses-sdk
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_cropper] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_cropper/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_cropper/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1e4020e8fe9ecb7913b9fa71ac463838/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1e4020e8fe9ecb7913b9fa71ac463838/AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.2] /home/nb/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2.aar/d23c141b6c49b6d008bdb4e722cd06ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2] /home/nb/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2.aar/d23c141b6c49b6d008bdb4e722cd06ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ea47b395632c7c6bc398836850ba4fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ea47b395632c7c6bc398836850ba4fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/808308c7e7818d3ab06f61e9ebf4be8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/808308c7e7818d3ab06f61e9ebf4be8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f81040da200618d9c838b1dc188c061e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f81040da200618d9c838b1dc188c061e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c52c9b3be661ce684a6753fa09f00a6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c52c9b3be661ce684a6753fa09f00a6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dc0169feec4a42cabff6a12d31f05691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dc0169feec4a42cabff6a12d31f05691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd8b7260e3c462e542422a585e2d2b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd8b7260e3c462e542422a585e2d2b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7b013c235edb8d801ce4cf6fc8487de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7b013c235edb8d801ce4cf6fc8487de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9e58aaaeccacdef2bb548222138a61d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/nb/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9e58aaaeccacdef2bb548222138a61d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef7066052bf039b11378aff99ca23f9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef7066052bf039b11378aff99ca23f9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d04c60a9e33617cc8b949cbd2e025fa7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d04c60a9e33617cc8b949cbd2e025fa7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dc66bec591356f0d2ec6219215915552/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dc66bec591356f0d2ec6219215915552/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8279fda7e1719bb1698476e4f78c7c98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/nb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8279fda7e1719bb1698476e4f78c7c98/AndroidManifest.xml:20:5-44
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-80
+IMPLIED from /home/nb/GitWorkshop/flutter_image_cropper_demo/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: io.flutter.plugins.imagepicker requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:9:22-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-74
+	android:exported
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:75
+	android:resource
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-72
+	android:name
+		ADDED from [:image_picker] /home/nb/GitWorkshop/flutter_image_cropper_demo/build/image_picker/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67

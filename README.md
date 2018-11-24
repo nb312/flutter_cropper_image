@@ -3,7 +3,7 @@ A Flutter app to showcase image cropping.
 
 
 # Demo
-<img height="480px" src="https://github.com/nb312/flutter_cropper_image/tree/master/screens/screen.gif">
+<img height="480px" src="screens/screen.gif">
 
 
 

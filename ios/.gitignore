@@ -65,4 +65,3 @@ fastlane/screenshots
 fastlane/test_output
 *.iml
 fastlane/readme.md
-.flutter-plugins

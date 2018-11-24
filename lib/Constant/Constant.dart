@@ -1,1 +1,3 @@
-String IMAGE_CROPPER_SCREEN = '/ImageScreen', ANIMATED_SPLASH = '/SplashScreen';
+String
+    WELCOME_SCREEN = "/welcome_screen",
+    CROPPER_SCREEN = "/cropper_screen";

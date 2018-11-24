@@ -1,5 +1,5 @@
-name: flutter_image_cropper_demo
-description: A new Flutter application.
+name: flutter_image_cropper
+description: A Flutter application for image croper example.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -46,10 +46,7 @@ flutter:
   #  - images/a_dot_ham.jpeg
 
   assets:
-    - assets/images/logo.png
-    - assets/images/powered_by.png
-    - assets/images/aeologic.png
-    - assets/images/substract.png
+    - assets/images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.

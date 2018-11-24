@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'UI/Welcome.dart';
 import 'UI/CropperScreen.dart';
-import 'Constant/ScreensConstant.dart';
+import 'Constant/Constant.dart';
 
 void main() => runApp(NBApp());
 

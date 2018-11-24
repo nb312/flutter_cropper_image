@@ -8,10 +8,10 @@ A Flutter app to showcase image cropping.
 
 
 # Screenshot
-<img height="400px" src="https://github.com/nb312/flutter_cropper_image/tree/master/screens/select_pic.png"> 
-<img height="400px" src="https://github.com/nb312/flutter_cropper_image/tree/master/screens/crop_before.png">
-<img height="400px" src="https://github.com/nb312/flutter_cropper_image/tree/master/screens/crop_pic.png"> 
-<img height="400px" src="https://github.com/nb312/flutter_cropper_image/tree/master/screens/reset_pic.png"> 
+<img height="400px" src="screens/select_pic.png"> 
+<img height="400px" src="screens/crop_before.png">
+<img height="400px" src="screens/crop_pic.png"> 
+<img height="400px" src="screens/reset_pic.png"> 
 
 ## Getting Started
 
